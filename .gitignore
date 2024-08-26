@@ -1,0 +1,7 @@
+args
+obj
+.vscode
+.clang-format
+.editorconfig
+main
+Makefile
